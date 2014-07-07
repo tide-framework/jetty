@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"dropDatabase" : "DamienCassou 4/10/2014 18:03",
+		"nonInteractiveSetupOn:port:" : "ChristopheDemarey 7/7/2014 23:39",
 		"setupAll" : "DamienCassou 4/14/2014 13:51",
 		"setupVoyage" : "DamienCassou 4/10/2014 11:31",
 		"setupWebserver" : "DamienCassou 4/14/2014 11:29",
