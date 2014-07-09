@@ -1,5 +1,6 @@
 actions
-setupWebsite
+setupWebsiteWithAdmin: adminUserEmail
+	adminUser := adminUserEmail.
 	MRStructure removeAll.
 	MRRoot removeAll.
 	MRUser removeAll.

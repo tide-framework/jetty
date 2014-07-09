@@ -1,3 +1,3 @@
 public
 setupWebsiteWithAdmin: adminUserEmail
-	^ self new setupWebsite: adminUserEmail
+	^ self new setupWebsiteWithAdmin: adminUserEmail
