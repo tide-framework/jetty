@@ -1,0 +1,19 @@
+{
+	"category" : "Marina-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ChristopheDemarey 7/8/2014 09:10",
+	"instvars" : [
+		"adminUser",
+		"hostname",
+		"port",
+		"dbPort",
+		"dbName",
+		"dbHostname" ],
+	"name" : "MRConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
