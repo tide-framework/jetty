@@ -1,6 +1,6 @@
 actions
 setupWebsiteWithAdmin: adminUserEmail
-	adminUser := adminUserEmail.
+	adminUser := self createAdminUserWithEmail: adminUserEmail.
 	MRStructure removeAll.
 	MRRoot removeAll.
 	MRUser removeAll.
