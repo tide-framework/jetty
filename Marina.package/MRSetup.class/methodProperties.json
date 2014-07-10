@@ -1,17 +1,19 @@
 {
 	"class" : {
+		"configure" : "ChristopheDemarey 7/8/2014 23:00",
 		"dropDatabase" : "DamienCassou 4/10/2014 18:03",
-		"setupAll" : "DamienCassou 4/14/2014 13:51",
-		"setupVoyage" : "DamienCassou 4/10/2014 11:31",
-		"setupWebserver" : "DamienCassou 4/14/2014 11:29",
-		"setupWebsite" : "DamienCassou 4/17/2014 10:50",
-		"startWebserverWith:port:" : "DamienCassou 4/14/2014 11:33" },
+		"nonInteractiveSetupWith:" : "ChristopheDemarey 7/10/2014 00:11",
+		"setupAll" : "ChristopheDemarey 7/9/2014 21:45",
+		"setupVoyageWith:" : "ChristopheDemarey 7/9/2014 21:43",
+		"setupWebsiteWithAdmin:" : "ChristopheDemarey 7/10/2014 00:39",
+		"startWebserverOn:port:" : "ChristopheDemarey 7/9/2014 21:39" },
 	"instance" : {
-		"adminUser" : "DamienCassou 4/16/2014 18:13",
+		"adminUser" : "ChristopheDemarey 7/9/2014 21:37",
 		"blog" : "DamienCassou 4/11/2014 06:14",
 		"blogPost1" : "DamienCassou 4/11/2014 06:17",
 		"blogTemplate" : "DamienCassou 4/14/2014 16:27",
-		"createAdminUser" : "DamienCassou 4/17/2014 10:45",
+		"createAdminUser" : "ChristopheDemarey 7/10/2014 15:18",
+		"createAdminUserWithEmail:" : "ChristopheDemarey 7/10/2014 15:18",
 		"createBlog" : "DamienCassou 4/14/2014 16:29",
 		"createBlogPost1" : "DamienCassou 4/15/2014 18:00",
 		"createBlogTemplate" : "NicolasPetton 4/23/2014 14:47",
@@ -25,4 +27,4 @@
 		"docPage" : "DamienCassou 4/14/2014 14:07",
 		"indexPage" : "DamienCassou 4/10/2014 11:15",
 		"root" : "DamienCassou 4/10/2014 11:15",
-		"setupWebsite" : "DamienCassou 4/17/2014 10:53" } }
+		"setupWebsiteWithAdmin:" : "ChristopheDemarey 7/10/2014 15:44" } }
