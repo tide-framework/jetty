@@ -3,7 +3,7 @@ htmlContents
 	^ String
 		streamContents: [ :stream | 
 			| config writer |
-			config := PRExportConfiguration new.
+			config := PRCocoonConfiguration new.
 			config internalLinksAreAllAnchors: false.
 			config stopNumberingAtHeadingLevel: 0.
 			writer := PRHTMLWriter on: stream.
